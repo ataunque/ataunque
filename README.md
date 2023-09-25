@@ -9,8 +9,8 @@ An accountant turned data analyst. I've always been passionate about gathering i
 Some of my data expertise include:
 - Querying data using SQL and generating reports/dashboards for stakeholders
 - Utilizing Python to efficiently process data, automate processes, and perform advanced analytics such as sentiment analysis using NLTK
-- Developing dashboards on Tableau and Power BI.
-- Data analysis and reporting using Excel.
+- Developing dashboards on Tableau and Power BI
+- Data analysis and reporting using Excel
 
 <br>👯 I also love automating things using python and am always looking for projects to collaborate on<br>🌱 I’m currently learning advanced Python and ML<br>🎮🏞️I like to game in my free time and hike new trails!
 
